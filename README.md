@@ -18,6 +18,8 @@
   </samp>
 </p>
 
+<p>Hola/>
+
 <p align="center">
  <a href="https://www.linkedin.com/in/hugo-chaparro-estrada-3a5bb6290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hgdv11"/>
@@ -98,4 +100,5 @@
 </a>
 
 ![Hgdv11 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hgdv11&custom_title=%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
